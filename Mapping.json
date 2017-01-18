@@ -1,0 +1,1373 @@
+{
+  "Mappings": {
+    "4110103": {
+      "Source": {
+        "account": "4110103",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4110103",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4120104": {
+      "Source": {
+        "account": "4120104",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4110103",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4120105":
+    {
+      "Source": {
+        "account": "4120105",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4110104",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "3310107": {
+      "Source": {
+        "account": "3310107",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "3310107",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "4110102": {
+      "Source": {
+        "account": "4110102",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4110102",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4120103": {
+      "Source": {
+        "account": "4120103",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4110102",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4110104": {
+      "Source": {
+        "account": "4110104",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4110104",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4210101": {
+      "Source": {
+        "account": "4210101",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4210101",
+        "ICP": "*",
+        "MovProd": "DE_07",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "3320101": {
+      "Source": {
+        "account": "3320101",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "3320101",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "3210101": {
+      "Source": {
+        "account": "3210101",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "3210101",
+        "ICP": "*",
+        "MovProd": "DE_07",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "4350302": {
+      "Source": {
+        "account": "4350302",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      },
+      "Target": {
+        "account": "4350302",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "DS_11"
+      }
+    },
+    "4350601": {
+      "Source": {
+        "account": "4350601",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      },
+      "Target": {
+        "account": "4350601",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "DS_11"
+      }
+    },
+    "4350301": {
+      "Source": {
+        "account": "4350301",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      },
+      "Target": {
+        "account": "4350301",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "DS_11"
+      }
+    },
+    "4350202": {
+      "Source": {
+        "account": "4350202",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      },
+      "Target": {
+        "account": "4350202",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "DS_05"
+      }
+    },
+    "4350603": {
+      "Source": {
+        "account": "4350603",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      },
+      "Target": {
+        "account": "4350603",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "DS_11"
+      }
+    },
+    "4350602": {
+      "Source": {
+        "account": "4350602",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      },
+      "Target": {
+        "account": "4350602",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "DS_05"
+      }
+    },
+    "4350201": {
+      "Source": {
+        "account": "4350201",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      },
+      "Target": {
+        "account": "4350201",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "DS_05"
+      }
+    },
+    "4350604": {
+      "Source": {
+        "account": "4350604",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      },
+      "Target": {
+        "account": "4350604",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "DS_11"
+      }
+    },
+    "3310101": {
+      "Source": {
+        "account": "3310101",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "3310101",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "3310102": {
+      "Source": {
+        "account": "3310102",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "3310102",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "3310103": {
+      "Source": {
+        "account": "3310103",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "3310103",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "3310104": {
+      "Source": {
+        "account": "3310104",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "3310104",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "3310105": {
+      "Source": {
+        "account": "3310105",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "3310105",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "3310106": {
+      "Source": {
+        "account": "3310106",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "3310106",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "3320102": {
+      "Source": {
+        "account": "3320102",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "3320102",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "3320103": {
+      "Source": {
+        "account": "3320103",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "3320103",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "3210102": {
+      "Source": {
+        "account": "3210102",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "3210102",
+        "ICP": "*",
+        "MovProd": "DE_07",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "3210103": {
+      "Source": {
+        "account": "3210103",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "3210103",
+        "ICP": "*",
+        "MovProd": "DE_07",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "3210104": {
+      "Source": {
+        "account": "3210104",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "3210104",
+        "ICP": "*",
+        "MovProd": "DE_07",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "3210199": {
+      "Source": {
+        "account": "3210199",
+        "ICP": "*",
+        "MovProd": "[None]",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "3210199",
+        "ICP": "*",
+        "MovProd": "DE_07",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "4220101": {
+      "Source": {
+        "account": "4220101",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4220101",
+        "ICP": "*",
+        "MovProd": "DE_07",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "4331101": {
+      "Source": {
+        "account": "4331101",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "[None]",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4331101",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "LB_05",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "4331102": {
+      "Source": {
+        "account": "4331102",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "[None]",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4331102",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "LB_05",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4331103": {
+      "Source": {
+        "account": "4331103",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "[None]",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4331103",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "LB_05",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4331104": {
+      "Source": {
+        "account": "4331104",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "[None]",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4331104",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "LB_05",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4331105": {
+      "Source": {
+        "account": "4331105",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "[None]",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4331105",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "LB_05",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4331106": {
+      "Source": {
+        "account": "4331106",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "[None]",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4331106",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "LB_05",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4324103": {
+      "Source": {
+        "account": "4324103",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4324103",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "4324107": {
+      "Source": {
+        "account": "4324107",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4324107",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "4324108": {
+      "Source": {
+        "account": "4324108",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4324108",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "4350901": {
+      "Source": {
+        "account": "4350901",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      },
+      "Target": {
+        "account": "4350901",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "DS_05"
+      }
+    },
+    "4324105": {
+      "Source": {
+        "account": "4324105",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4324105",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "4350102": {
+      "Source": {
+        "account": "4350102",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      },
+      "Target": {
+        "account": "4350102",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "DS_11"
+      }
+    },
+    "4341101": {
+      "Source": {
+        "account": "4341101",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4341101",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "4341102": {
+      "Source": {
+        "account": "4341102",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4341102",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "4315101": {
+      "Source": {
+        "account": "4315101",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4315101",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      }
+    },
+    "4350203": {
+      "Source": {
+        "account": "4350203",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      },
+      "Target": {
+        "account": "4350203",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "DS_05"
+      }
+    },
+    "4110201": {
+      "Source": {
+        "account": "4110201",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4110201",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4120201": {
+      "Source": {
+        "account": "4120201",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4110201",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4110202": {
+      "Source": {
+        "account": "4110202",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4110202",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4120202": {
+      "Source": {
+        "account": "4120202",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4110202",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4110203": {
+      "Source": {
+        "account": "4110203",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4110203",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4120203": {
+      "Source": {
+        "account": "4120203",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4110203",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4110204": {
+      "Source": {
+        "account": "4110204",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4110204",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4110299": {
+      "Source": {
+        "account": "4110299",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4110299",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4120299": {
+      "Source": {
+        "account": "4120299",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "*"
+      },
+      "Target": {
+        "account": "4110299",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "[None]",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      }
+    },
+    "4350112": {
+      "Source": {
+        "account": "4350112",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "[None]"
+      },
+      "Target": {
+        "account": "4350112",
+        "ICP": "*",
+        "MovProd": "*",
+        "VarLob": "*",
+        "MktOvr": "*",
+        "AuditDim": "*",
+        "RelPartDisc": "*",
+        "CostCenterDisc": "*",
+        "CustomType": "DS_05"
+      }
+    }
+  }
+}

@@ -52,9 +52,9 @@ def AccountMapping(mapping, mString):
     return line
 
 
-def renameelement(row):
+def globalrename(row):
+    # Global renaming elements
     rowlist = row.strip().split(";")
-
     if "CC03" in rowlist:
         pos = rowlist.index("CC03")
         rowlist.remove("CC03")
@@ -63,22 +63,21 @@ def renameelement(row):
         pos = rowlist.index("CC05")
         rowlist.remove("CC05")
         rowlist.insert(pos, "CC51")
-
     return rowlist
 
 starttime = time.time()
 
-#Read mappings for accounts
+# Read mappings for accounts
 with open("Mapping.json", "r", encoding="utf-8") as file:
     alldict = json.load(file)
     mappings = alldict["Mappings"]
 
 # Create target file and log file
-convertedJournals = open("test2.txt", 'w', encoding="utf-8")
+convertedJournals = open("ConvJournals2016_ACT_v2.txt", 'w', encoding="utf-8")
 log = open('logs.txt', 'w', encoding="utf-8")
 
 # Open file
-with open("ATCHFMCR60_Journal2015.txt", "r") as journal:
+with open("DAILYHFM_Journal_2016.txt", "r") as journal:
     for line in journal:
         if line.isspace():
             convertedJournals.write(line)
@@ -88,7 +87,7 @@ with open("ATCHFMCR60_Journal2015.txt", "r") as journal:
                 log.write(line + '\n')
         else:
             mstring = ''
-            line = renameelement(line)
+            line = globalrename(line)
             if line[0].isdigit():
                 for acc in mappings.keys():
                     if line[0] == acc:
